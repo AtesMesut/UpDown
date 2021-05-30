@@ -1,0 +1,88 @@
+*****************************************************************
+*****************************************************************
+*																*
+*						Mesutates.com							*
+*																*
+*****************************************************************
+*****************************************************************
+
+// Kullanmak için "config.php" dosyasını ve
+// "admin/admin.php" dosyasını düzenleyiniz.
+
+
+UpDown.ga v4.1
+-	Download sayfası kaç kez görüldü eklendi. (özel sayaç downsay klasöründe depolanır)
+-	indirme sayfasında bağlantı adresi kullanıcıdan gizlendi.
+-   Sayfalar ve resimler düzenlendi. - Son sürüm olarak kaydedildi.
+- 	Küçük hatalar giderildi.
+- 	BBCODE link eklendi.
+- 	ip bilgisi göstermede whatismyipadress üzerinden sorgulama eklendi.
+-	İndirme sayfasına indirme sayfası linki paylaşımı <input> eklendi.
+-	İndirilecek dosya adı indirme sayfasına eklendi (Dosya ismi : favicongenerator.png)
+-	İndirilecek dosya boyutu indirme sayfasına eklendi (Dosya boyutu : 0.22 MB)
+-	Admin panelinde iplog görüntüleme eklendi
+-	Toplam Sayfa Başı 20 Dosya görüntüleme
+-	Toplam Sayfa listelendi
+-	Toplam Dosya adeti Listelendi
+-	Admin Panelinde dosya listeleme düzeltildi
+-	Kullanıcı ip adresi/Tarih saat/Browser/Referans bilgilerinin kaydedilmesi (iplog.txt)
+-	Footer'da Kullanıcının erişim yaptığı ip adresini gösterme eklendi (ip.php)
+-	Ana sayfa ve indirme sayfası üst ve alt reklamlar.
+
+
+UpDown.ga v4.0.03
+
+-	İndirme sayfasında indirilecek dosyanın kontrolu yapılması.
+-	Dosya var ise indirme linki yok ise yeni dosya yükleme linki gösterilmesi.
+-	ProgressBar eklendi.
+-	% sayacı eklendi.
+-	Dosya total boyutu ve yüklem ilerlemesi eklendi.
+-	Random aralığı (11111,99999) olarak düzeltildi. (PHP 7 sürümünde time sorunu oluşuyor)
+-	Başka sekmeye geçince TITLE değişikliği eklendi.
+-	Admin Paneli girişi ve güvenliği yükseltildi.
+-	Admin dosyaları Admin klasöörüne alındı.
+-	config.php içerisinden düzenleyebilirsiniz tüm siteyi.
+-	admin panel için admin klasöründeki config.php yi düzenleyiniz.
+-	10 gün den eski dosyalar silinir. /silecek.php içerisinden düzenleyebilirsiniz.
+-	Türkçe karakter sorunu çözüldü.
+- 	Toplam Script Boyutu : 1,43 MB
+
+UpDown.ga v3.7.01
+
+- 	PHP 7 ve üzeri için hatalar gizlendi
+- 	Toplam Script Boyutu : 672 KB
+
+UpDown.ga v3.7
+
+-	%100 Responsive
+- 	Otomatik sitemap.xml Site Haritası
+- 	Aynı isimde aynı zamanda dosya yüklenmesini engeller.
+- 	Toplam Script Boyutu : 672 KB
+
+UpDown.ga v3.5
+
+-	Database gerektirmez.
+- 	UpDown.ga Dosya yükleme ve indirme scriptidir.
+- 	Seo uyumlu kısa linkler
+- 	Yüklenen dosya boyutunu gösterir.
+- 	Dosya Download sayfası linkini verir.
+- 	Dosya yükledikten sonra sosyal platformlarda paylaşabilirsiniz.
+- 	Yönlendirmeli hata sayfası
+- 	Reklam eklenebilir
+- 	Gizlilik Politikası, Destek ol ve kullanım şartları sayfaları mevcuttur.
+- 	upload klasörü için index koruması
+- 	Sınırsız sayfa eklenebilir.
+- 	Sosyal Medya ikonlarınızı en altta gösterir.
+- 	Dosya yükledikten sonra kullanıcıya dosya silme linkini verir.
+- 	Şifreli korumalı admin Sayfası. (siteadi.com/admin)
+- 	admin panelinde index.html listelenmez.
+- 	Admin Paneli ile yüklenmiş dosyaları görme ve silme işlemi yapılabilir.
+- 	Admin ekleme ve silme özelliği
+- 	Script dahili sayaca sahiptir. Sayfa görüntülenme sayar.
+- 	fontawesome kütüphanesi mevcuttur.
+- 	robots.txt ile bot engelleme.
+- 	sayfa eklemeniz için hazırlanmış "bossayfa.html" dahildir.
+- 	config.php ile site içerisindeki önemli bütün alanları değiştirebilirsiniz.
+- 	En alttaki "AtesMesut" linki silmediğiniz sürece dilediğiniz gibi kullanabilirsiniz.
+- 	Toplam Script Boyutu : 1,62 MB
+
